@@ -1,7 +1,7 @@
 # IoT based Irrigation using NodeMCU
  NodeMCU-powered IoT irrigation system for efficient watering based on real-time weather data and soil moisture levels.
 
-![Circuit Diagram](circuit.png)
+![alt text](circuit.png)
 
 Using the circuit diagram above, place the components and connect them accordingly.
 
